@@ -1,0 +1,19 @@
+{
+    "name": "chongeric/httptool",
+    "description": "a simple httptool",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chongeric\\Httptool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhuangguiyang",
+            "email": "782934029@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
